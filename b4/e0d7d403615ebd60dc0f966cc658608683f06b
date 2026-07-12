@@ -1,0 +1,22 @@
+__tests__/git.spec.js
+  s_78d52e6fa8839b::t_d170ba1e26b239 406-409
+  s_78d52e6fa8839b::t_c5143716170171 403-405
+src/js/git/index.js
+  s_78d52e6fa8839b::t_4e6c96041e36b3 651
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "b4e0d7d403615ebd60dc0f966cc658608683f06b",
+  "prompts": {},
+  "sessions": {
+    "s_78d52e6fa8839b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4c75b641-2947-440c-b25b-a41e199b881e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "hong4rc <hong4rc@gmail.com>"
+    }
+  }
+}
